@@ -2,7 +2,7 @@
 
 # Topic: Grounded or Hallucinated? A Small RAG System that Knows When to Say "I Don't Know"
 
-## Project Overview
+## Overview
 
 Retrieval-Augmented Generation (RAG) allows a language model to answer questions using information retrieved from external documents instead of relying only on its internal memory.
 
@@ -34,7 +34,7 @@ https://huggingface.co/datasets/yixuantt/MultiHopRAG
 
 ---
 
-## Main Project Goal
+## Goal
 
 The main goal is to build and evaluate a small RAG pipeline that can:
 
@@ -119,29 +119,3 @@ The main questions are:
 
 ---
 
-## Experimental Caution
-
-If prompts, thresholds, retrieval parameters, or models are tuned using the question set, the questions should first be separated into:
-
-- training set,
-- validation set,
-- test set.
-
-The final test set should not be repeatedly used during tuning.
-
----
-
-## Project Structure
-
-The repository will contain the experiment notebooks, configuration information, and results required to reproduce the work.
-
-Example structure:
-
-```text
-HW_DL_RAG_Solution/
-├── README.md
-├── notebooks/
-│   └── Milestone1_Reproduce.ipynb
-├── results/
-├── requirements.txt
-└── .gitignore
