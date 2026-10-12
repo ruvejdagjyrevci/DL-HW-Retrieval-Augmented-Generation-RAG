@@ -75,7 +75,7 @@ The required tasks are:
 7. Evaluate the saved retrieval results.
 8. Run BM25 as a keyword-based baseline.
 
-### Milestone 1 Target Results
+### Target
 
 | Metric | Target |
 |---|---:|
@@ -84,7 +84,7 @@ The required tasks are:
 | MRR@10 | 0.4298 |
 | Hits@10 with `bge-reranker-large` | 0.7183 |
 
-### Milestone 1 Notes
+### Hints
 
 - If an OpenAI API key is requested during retrieval, a dummy value can be used because retrieval itself does not call OpenAI.
 - The repository previously had a chunk-overlap issue, so the overlap value used in the experiment must be recorded explicitly.
