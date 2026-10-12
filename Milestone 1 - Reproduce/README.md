@@ -1,5 +1,7 @@
 # Milestone 1 – Reproduce
 
+[Back to the project overview](../README.md)
+
 ## Objective
 
 The goal of Milestone 1 is to reproduce the baseline retrieval results of the MultiHop-RAG project as closely as possible.
