@@ -2,7 +2,15 @@
 
 ## Navigation
 
+Use the link below to return to the main project page and access the overall project description and milestone structure.
+
 [MAIN PAGE](../README.md)
+
+## Solution Notebook
+
+| Resource | Notebook | Open in Google Colab |
+| --- | --- | --- |
+| Milestone 1 solution | [Milestone 1 notebook](Milestone1_Reproduce.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rhFdbKuF2MGeL1bg0Id8Ha4SOH9ZSAYI#scrollTo=h81fmjfZvpTh) |
 
 ## Objective
 
@@ -27,9 +35,9 @@ The following tasks are expected to be completed during Milestone 1:
 9. Save the dense retrieval results.
 10. Evaluate the results using the repository's retrieval evaluation script.
 11. Report the required retrieval metrics:
-    - Hits@10
-    - Hits@4
-    - MRR@10
+   - Hits@10
+   - Hits@4
+   - MRR@10
 12. Run BM25 as a keyword-based retrieval baseline.
 13. Compare the dense retrieval results with the BM25 baseline.
 14. Document the final configuration and obtained results so that the experiment can be reproduced.
