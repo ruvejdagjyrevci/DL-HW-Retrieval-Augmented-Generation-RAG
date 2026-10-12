@@ -2,7 +2,7 @@
 
 ## Navigation
 
-[Back to the project overview](../README.md)
+[MAIN PAGE](../README.md)
 
 ## Objective
 
