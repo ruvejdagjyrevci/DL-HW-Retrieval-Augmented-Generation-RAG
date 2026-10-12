@@ -1,5 +1,7 @@
 # Milestone 1 – Reproduce
 
+## Navigation
+
 [Back to the project overview](../README.md)
 
 ## Objective
