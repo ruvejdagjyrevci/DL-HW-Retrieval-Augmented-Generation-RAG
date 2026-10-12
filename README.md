@@ -1,5 +1,3 @@
-# DL-HW-Retrieval-Augmented-Generation-RAG-
-
 # Topic: Grounded or Hallucinated? A Small RAG System that Knows When to Say "I Don't Know"
 
 ## Overview
