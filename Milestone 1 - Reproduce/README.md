@@ -8,7 +8,7 @@ Use the link below to return to the main project page and access the overall pro
 
 ## Solution
 
-| Resource | Notebook | Open in Google Colab |
+| Resource | Notebook | Link |
 | --- | --- | --- |
 | Milestone 1 - Reproduce | [Notebook](Milestone1_Reproduce.ipynb) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rhFdbKuF2MGeL1bg0Id8Ha4SOH9ZSAYI#scrollTo=h81fmjfZvpTh) |
 
