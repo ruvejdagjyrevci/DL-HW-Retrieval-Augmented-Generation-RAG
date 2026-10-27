@@ -1,5 +1,15 @@
 # Topic: Grounded or Hallucinated? A Small RAG System that Knows When to Say "I Don't Know"
 
+## Navigation
+
+Use the links below to access the materials for each milestone.
+
+**Milestone 1 – Reproduce**
+- Folder: [Milestone 1 - Reproduce](https://github.com/ruvejdagjyrevci/DL-HW-Retrieval-Augmented-Generation-RAG-/tree/main/Milestone%201%20-%20Reproduce)
+- README: [Milestone 1 README](https://github.com/ruvejdagjyrevci/DL-HW-Retrieval-Augmented-Generation-RAG-/blob/main/Milestone%201%20-%20Reproduce/README.md)
+
+---
+
 ## Overview
 
 Retrieval-Augmented Generation (RAG) allows a language model to answer questions using information retrieved from external documents instead of relying only on its internal memory.
