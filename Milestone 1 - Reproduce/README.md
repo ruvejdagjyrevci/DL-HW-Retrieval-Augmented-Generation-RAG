@@ -24,7 +24,7 @@ Use the link below to return to the main project page and access the overall pro
 
 | Resource | Notebook | Link |
 | --- | --- | --- |
-| Milestone 1 - Reproduce | [Notebook](https://github.com/ruvejdagjyrevci/DL-HW-Retrieval-Augmented-Generation-RAG-/blob/main/Milestone%201%20-%20Reproduce/HW_DL_RAG_Solution.ipynb) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rhFdbKuF2MGeL1bg0Id8Ha4SOH9ZSAYI?usp=sharing) |
+| Milestone 1 - Reproduce | [Notebook](https://github.com/ruvejdagjyrevci/DL-HW-Retrieval-Augmented-Generation-RAG/blob/main/Milestone%201%20-%20Reproduce/HW_DL_RAG_Solution.ipynb) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rhFdbKuF2MGeL1bg0Id8Ha4SOH9ZSAYI?usp=sharing) |
 
 ## Project Description
 
@@ -104,6 +104,7 @@ All three paper targets are exceeded by the reproduced dense retriever (+0.1278 
 |---|---|
 | `Milestone 1 - Reproduce/` | Folder containing the Milestone 1 solution. |
 | `Milestone 1 - Reproduce/HW_DL_RAG_Solution.ipynb` | Jupyter Notebook with the full Milestone 1 solution. |
+| `Milestone 1 - Reproduce/hw_dl_rag_solution.py` | Python script version of the notebook. |
 | `Milestone 1 - Reproduce/README.md` | Description of Milestone 1. |
 
 When the notebook runs, it clones the original [MultiHop-RAG repository](https://github.com/yixuantt/MultiHop-RAG) and uses these files from it:
