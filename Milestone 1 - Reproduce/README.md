@@ -24,7 +24,7 @@ Use the link below to return to the main project page and access the overall pro
 
 | Resource | Notebook | Link |
 | --- | --- | --- |
-| Milestone 1 - Reproduce | [Notebook](Milestone1_Reproduce.ipynb) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rhFdbKuF2MGeL1bg0Id8Ha4SOH9ZSAYI?usp=sharing) |
+| Milestone 1 - Reproduce | [Notebook](https://github.com/ruvejdagjyrevci/DL-HW-Retrieval-Augmented-Generation-RAG-/blob/main/Milestone%201%20-%20Reproduce/HW_DL_RAG_Solution.ipynb) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rhFdbKuF2MGeL1bg0Id8Ha4SOH9ZSAYI?usp=sharing) |
 
 ## Project Description
 
