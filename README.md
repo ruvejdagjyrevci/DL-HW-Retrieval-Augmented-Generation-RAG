@@ -4,7 +4,7 @@
 
 Use the links below to access the materials for each milestone.
 
-**Milestone 1 – Reproduce**
+**`Milestone 1 – Reproduce`**
 - Folder: [Milestone 1 – Reproduce](https://github.com/ruvejdagjyrevci/DL-HW-Retrieval-Augmented-Generation-RAG-/tree/main/Milestone%201%20-%20Reproduce)
 - README: [Milestone 1 README](https://github.com/ruvejdagjyrevci/DL-HW-Retrieval-Augmented-Generation-RAG-/blob/main/Milestone%201%20-%20Reproduce/README.md)
 
