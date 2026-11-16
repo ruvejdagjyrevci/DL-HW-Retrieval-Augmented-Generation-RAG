@@ -8,6 +8,11 @@ Use the links below to access the materials for each milestone.
 - Folder: [Milestone 1 - Reproduce](https://github.com/ruvejdagjyrevci/DL-HW-Retrieval-Augmented-Generation-RAG-/tree/main/Milestone%201%20-%20Reproduce)
 - README: [Milestone 1 README](https://github.com/ruvejdagjyrevci/DL-HW-Retrieval-Augmented-Generation-RAG-/blob/main/Milestone%201%20-%20Reproduce/README.md)
 
+**Milestone 2 – Improve**
+- Folder: [Milestone 2 – Improvee](https://github.com/ruvejdagjyrevci/DL-HW-Retrieval-Augmented-Generation-RAG/tree/main/Milestone%202%20-%20Improve)
+- README: [Milestone 2 README](https://github.com/ruvejdagjyrevci/DL-HW-Retrieval-Augmented-Generation-RAG/blob/main/Milestone%202%20-%20Improve/README.md)
+
+
 ---
 
 ## Overview
