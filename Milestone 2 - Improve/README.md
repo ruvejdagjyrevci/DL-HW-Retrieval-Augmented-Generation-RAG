@@ -1,4 +1,4 @@
-# Milestone 2 – iMPROVE
+# Milestone 2 – Improve
 
 ## Navigation
 
