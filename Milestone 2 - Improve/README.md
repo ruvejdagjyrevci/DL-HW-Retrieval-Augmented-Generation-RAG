@@ -58,18 +58,19 @@ The work is organized into three milestones.t, prepare the dataset, run the publ
 
 ### Milestone 2 – Improve
 
-Reproduce the baseline retrieval results of the original MultiHop-RAG repository:
+Improve the baseline MultiHop-RAG system from Milestone 1 by strengthening retrieval and adding answer generation:
 
-- dense retrieval with `BAAI/bge-large-en-v1.5`, chunk size **256** tokens, chunk overlap **25** tokens, top-k = 10,
-- evaluation with Hits@10, Hits@4 and MRR@10,
-- BM25 as a keyword-based baseline on exactly the same chunks.
+- combine BM25 and dense retrieval using the repository’s hybrid retrieval pipeline,
+- add `bge-reranker-large` and measure the retrieval improvement,
+- decompose complex multi-hop questions into simpler sub-questions,
+- generate answers with a small open language model loaded in **4-bit precision**.
 
-| Metric | Target (paper) |
-|---|---:|
-| Hits@10 | 0.6718 |
-| Hits@4 | 0.5221 |
-| MRR@10 | 0.4298 |
-| Hits@10 with `bge-reranker-large` | 0.7183 |
+Milestone 2 does not define a fixed numerical target. The goal is to measure whether the added components improve the Milestone 1 baseline in terms of:
+
+- retrieval quality,
+- ranking of relevant evidence,
+- handling of multi-hop questions,
+- and final answer generation.
 
 
 ## Solution
