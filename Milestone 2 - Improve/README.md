@@ -2,7 +2,8 @@
 
 ## Navigation
 
-Use the link below to return to the main project page and access the overall project description and milestone structure. `[MAIN PAGE](../README.md)`
+Use the link below to return to the main project page and access the overall project description and milestone structure. 
+[MAIN PAGE](../README.md)
 
 ## Team
 
